@@ -325,9 +325,11 @@ h4 {
 }
 
 .category__btn {
-  border: 2px solid var(--color-dark-blue);
+  border: 2px solid var(--color-light-white);
   border-radius: var(--size-border-radius);
   font-size: var(--font-regular);
+  color: var(--color-light-white);
+  font-weight: var(--weight-bold);
   padding: 8px 48px;
 }
 
